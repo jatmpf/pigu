@@ -1,0 +1,52 @@
+<products>
+    <product>
+        <category-id>1268</category-id>
+        <category-name><![CDATA[Shirts]]></category-name>
+        <title><![CDATA[Product title LT language]]></title>
+        <title-ru><![CDATA[Product title in RU language]]></title-ru>
+        <title-lv><![CDATA[Product title in LV language]]></title-lv>
+        <title-ee><![CDATA[Product title in EE language]]></title-ee>
+        <long-description><![CDATA[<p>Some long description in LT language.</p>]]></long-description>
+        <long-description-ru><![CDATA[<p>Some long description in RU language.</p>]]></long-description-ru>
+        <long-description-lv><![CDATA[<p>Some long description in LV language.</p>]]></long-description-lv>
+        <long-description-ee><![CDATA[<p>Some long description in EE language.</p>]]></long-description-ee>
+        <video-youtube>http://www.youtube.com/watch?v=65Chy5kPQ-Y</video-youtube>
+        <properties>
+            <property>
+                <id><![CDATA[manufacturer]]></id>
+                <values>
+                    <value><![CDATA[Comfoline]]></value>
+                </values>
+            </property>
+            <property>
+                <id><![CDATA[country]]></id>
+                <values>
+                    <value><![CDATA[Taivan]]></value>
+                </values>
+            </property>
+        </properties>
+        <colours>
+            <colour>
+                <images>
+                    <image>
+                        <url>http://image.server.lt/?id=10</url>
+                    </image>
+                </images>
+                <modifications>
+                    <modification>
+                        <weight>1.2</weight>
+                        <length>0.2</length>
+                        <height>0.1</height>
+                        <width>1.2</width>
+                        <attributes>
+                            <barcodes>
+                                <barcode><![CDATA[012345678901]]></barcode>
+                            </barcodes>
+                            <supplier-code><![CDATA[oxpg6964]]></supplier-code>
+                        </attributes>
+                    </modification>
+                </modifications>
+            </colour>
+        </colours>
+    </product>
+</products>
